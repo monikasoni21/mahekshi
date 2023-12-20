@@ -1,2 +1,1 @@
-# my project is based on jwellary
-#new changes done
+# This project is based on jewelers 
